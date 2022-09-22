@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/banner1.png'}
         title={'도움이 필요하신가요?'}
-        subtitle={'Discover Autumn Winter 2021'}
+        subtitle={'씨발왜안됨'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
